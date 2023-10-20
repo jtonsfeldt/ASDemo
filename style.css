@@ -7,7 +7,9 @@ body {
     color:#40434E;
     max-width:1000px;
     margin:auto;
-   /* background-image: url(images/cat.mp4); */
+   background-image: url(images/cat.mp4);
+    font-family:Helvetica, Sans-serif;
+    
 
 }
 
